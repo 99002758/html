@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <style>
+        h1{
+            background-color:greenyellow;
+            text-align: center;
+            margin: 30px;
+        }
+        pre{
+            font-size: 14pt;
+            border: medium;
+            margin: 30px;
+            text-align: center;
+            border:30px;
+        }
+        footer{
+            text-align: center;
+            background-color:greenyellow;
+            bottom:auto;
+        }
+        section{
+            text-align: center;
+        }
+        
+        
+    </style>
+</head>
+<body>
+    <h1>About kalyani Hotel</h1>
+    <div>
+        <pre><i>
+            Welcome to kalyani Luxury Hotel.Our passion is to connect our guests to the very best of our destinations.
+            We are providing many facilities like Gym,Spa,Free Parking Facility,Free Wifi and many others.For Vehicle Parking
+            we are also providing Reservation if you want.we are provideing help desk by 24/7.
+        </i></pre>
+    </div>
+    <section>
+        <div>
+            <img src="../css/mainhotel.jpg" width="500" height="450">
+            
+        </div>
+
+    </section>
+
+    <footer>
+            &copy;Copyrights@sumanth
+    </footer>
+</body>
+</html>
